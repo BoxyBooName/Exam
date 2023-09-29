@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.back{
+    width: 80px;
+    height: 80px;
+}
+.study__text__div{
+    display: flex;
+    margin-left: 756px;
+    margin-top: 113px;
+}
+.study__text__div__zero__h1{
+    color: #263138;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.study__text__div__first__h1{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 15px;
+}
+.study__text__p{
+    color: #445964;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 117px;
+    margin-left: 860px;
+}
+.study__text__h3{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 830px;
+}
+.study__text__h4{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 800px;
+}
+.div__par{
+    color: #445964;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.css{
+    width: 20px;
+    height: 20px;
+}
+.html{
+    width: 20px;
+    height: 20px;
+}
+.tailwind{
+    width: 20px;
+    height: 20px;
+}
+.study__finished__icons{
+    display: flex;
+    margin-top: 50px;
+}
+.study__text__p1{
+    color: #445964;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 50px;
+    margin-left: 860px;
+}
+.div__par1{
+    color: #445964;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 750px;
+}
+.div__par2{
+    color: #445964;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 710px;
+}

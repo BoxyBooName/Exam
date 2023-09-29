@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.about__text__p{
+    color: #445964;
+    text-align: center;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 24px;
+}
+.about__name{
+    display: flex;
+    margin-left: 640px;
+}
+.about__name__first__h1{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}   
+.about__name__second__h1{
+    color: #263138;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 15px;
+}
+.about__text__img{
+    width: 183px;
+    height: 207px;
+    margin-left: 867px;
+    margin-top: 55px;
+}
+.bottom__about__name{
+    display: flex;
+    margin-top: 58px;
+    margin-left: 802px;
+}
+.about__botoom__div{
+    display: flex;
+    flex-direction: column;
+}
+.cost{
+    display: flex;
+}
+.zero__ball{
+    width: 30px;
+    height: 30px;
+    margin-top: 16px;
+}
+.first__ball{
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 16px;
+}
+.Python__h2{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 30px;
+}
+.Python__skill{
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 535px;
+    margin-top: 62px;
+}
+.Skills{
+    display: flex;
+}
+.html__skill{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 62px;
+    display: inline-block;
+}
+.React__skill{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 62px;
+    display: inline-block;
+}
+.c__skill{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 62px;
+    display: inline-block;
+}
+.Python__h3{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 70px;
+}
+.Python__h4{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 5px;
+}
+.JavaScript__skills{
+    margin-left: 535px;
+    margin-top: 71px;
+    display: inline-block;
+}
+.Python__h5{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 50px;
+}
+.css__skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 62px;
+    display: inline-block;
+}
+.Python__h6{
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-left: 22px;
+}
+.back{
+    width: 80px;
+    height: 80px;
+}
